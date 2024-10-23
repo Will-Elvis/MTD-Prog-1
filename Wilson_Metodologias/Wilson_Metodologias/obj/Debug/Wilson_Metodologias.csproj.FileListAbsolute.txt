@@ -1,0 +1,6 @@
+C:\Users\Estudiante\Documents\SharpDevelop Projects\Wilson_Metodologias\Wilson_Metodologias\obj\Debug\Wilson_Metodologias.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Documents\SharpDevelop Projects\Wilson_Metodologias\Wilson_Metodologias\bin\Debug\Wilson_Metodologias.exe.config
+C:\Users\Estudiante\Documents\SharpDevelop Projects\Wilson_Metodologias\Wilson_Metodologias\bin\Debug\Wilson_Metodologias.exe
+C:\Users\Estudiante\Documents\SharpDevelop Projects\Wilson_Metodologias\Wilson_Metodologias\bin\Debug\Wilson_Metodologias.pdb
+C:\Users\Estudiante\Documents\SharpDevelop Projects\Wilson_Metodologias\Wilson_Metodologias\obj\Debug\Wilson_Metodologias.exe
+C:\Users\Estudiante\Documents\SharpDevelop Projects\Wilson_Metodologias\Wilson_Metodologias\obj\Debug\Wilson_Metodologias.pdb

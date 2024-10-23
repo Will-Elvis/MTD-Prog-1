@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilson_Metodologias", "Wilson_Metodologias\Wilson_Metodologias.csproj", "{AF884EC0-EF69-473C-94F6-8961E4255DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TP2", "TP2\TP2.csproj", "{69100DA7-410E-4048-8C96-43434EEDDA20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF884EC0-EF69-473C-94F6-8961E4255DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF884EC0-EF69-473C-94F6-8961E4255DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF884EC0-EF69-473C-94F6-8961E4255DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF884EC0-EF69-473C-94F6-8961E4255DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69100DA7-410E-4048-8C96-43434EEDDA20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69100DA7-410E-4048-8C96-43434EEDDA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69100DA7-410E-4048-8C96-43434EEDDA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69100DA7-410E-4048-8C96-43434EEDDA20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
